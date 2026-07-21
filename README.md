@@ -7,4 +7,4 @@ Simple hand gesture/finger counting project using OpenCV and Python.
 2. Run: `python hand_gesture_detection.py`
 
 ## Author
-M Suganthi
+M Suganthi - suganthi.m2027@gmail.com
